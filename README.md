@@ -13,3 +13,6 @@ further analysis. Then implement functions for the following search algorithms f
 a) Depth-first search  
 
 b) Breadth-first search
+
+## A2
+In this part of the assignment, you write code to implement a genetic algorithm to solve the N-queens problem. The classic N-Queens problem originated from chess, and the 8 x 8 chessboard was its early playground. The task was to place eight chess queens on the board without two of them threatening each other. In other words, no two queens can share the same row, same column, or same diagonal. The N-Queens problem is similar, using an N x N chessboard and N chess queens.
