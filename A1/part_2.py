@@ -1,9 +1,4 @@
 '''
-Gurraj Singh
-190128350
-Ninam Rai
-200619540
-CP468
 Make sure to have csv in same directory
 
 Install pip below
