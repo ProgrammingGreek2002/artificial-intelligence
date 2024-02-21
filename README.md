@@ -22,7 +22,7 @@ Given the 'kmeans.csv' data set (can be downloaded from MyIs) with n = 30 exampl
 
 a) Plot the examples/observations.  
 
-b) Write a function kmeans() that implements K-means clustering algorithm for k clusters, such that  
+b) Write a function kmeans() that implements K-means clustering algorithm for k clusters, such that:
 
 a. It chooses the first k data points as initial centroids.  
 
