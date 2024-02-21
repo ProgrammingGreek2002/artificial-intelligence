@@ -16,3 +16,36 @@ b) Breadth-first search
 
 ## A2
 In this part of the assignment, you write code to implement a genetic algorithm to solve the N-queens problem. The classic N-Queens problem originated from chess, and the 8 x 8 chessboard was its early playground. The task was to place eight chess queens on the board without two of them threatening each other. In other words, no two queens can share the same row, same column, or same diagonal. The N-Queens problem is similar, using an N x N chessboard and N chess queens.
+
+## A3
+Given the 'kmeans.csv' data set (can be downloaded from MyIs) with n = 30 examples and 2 features.  
+
+a) Plot the examples/observations.  
+
+b) Write a function kmeans() that implements K-means clustering algorithm for k clusters, such that  
+
+a. It chooses the first k data points as initial centroids.  
+
+b. Assign each observation to the centroid to which it is closest, in terms of Euclidean distance.  
+
+c. Denote the cluster label for each data point  
+
+d. Compute new centroids for each cluster by averaging the data points in each cluster  
+
+e. Repeat steps (ii) to (iv) until the centroids stop changing.  
+
+Note: Do not use libraries and write your own K-means clustering algorithm.  
+
+
+c) Plot the final clusters at k=2  
+
+d) Report the final cluster sizes.  
+
+e) Report the final centroids.  
+
+
+
+
+
+
+
